@@ -3,9 +3,13 @@
     {
       "id": 1,
       "title": "hello frl"
+    },
+    {
+      "id": 2,
+      "title": "hello encore"
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "frl"
   }
 }
